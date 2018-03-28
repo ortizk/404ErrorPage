@@ -1,0 +1,26 @@
+body {
+	background-image: url("images/404back.jpg");
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	margin: 180px 500px 0px 300px;
+	font-size: 60px;
+	color: #DAFD00;
+
+}
+h2 {
+	font-family: 'Raleway', sans-serif;
+	color: #FD029C;
+	margin-left: 300px;
+	font-size: 50px
+}
+a {
+	font-family: 'Raleway', sans-serif;
+	margin-left: 300px;
+	font-size: 40px;
+	color: #0DF2F9;
+}
+ul {
+	list-style-type: none;
+}
